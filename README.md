@@ -1,3 +1,3 @@
 # todoappbloccleanarchitecture
 
-TodO App coded with Bloc state management and clean architecture.
+Todo App coded with Bloc state management and clean architecture.
